@@ -1,0 +1,12 @@
+
+CREATE DATABASE cart;
+
+INSERT INTO products(id,name,image,price) VALUES
+ (1,'ASUS GeForce GTX 1070 DUAL OC 8GB GDDR5 256-bit','geforce-gtx-1070.jpg',2496.99),
+(2,'LG GH24NSD1 retail black','gh24nsd1-bulk.jpg',8633),
+(3,'ASUS GeForce GTX 1060 Phoenix 6GB GDDR5 192-bit','geforce-gtx-1060.jpg',1559.99),
+(4,'Redragon Vara Mecanica','vara-40.jpg',179.99 ),
+(5,'HyperX Fury Black 8GB DDR4 2400MHz CL15 1.2v','fury-black-4gb.jpg',394.99),
+(6,'Creative Sound Blaster Audigy FX 5.1','sound-blaster-audigy.jpg',154.99),
+(7,'GIGABYTE AORUS X470 ULTRA GAMING','aorus-x470.jpg',713.9 ),
+(8,'Seasonic M12II-520 EVO Edition Bronze 520W','m12ii-520-evo.jpg',329.99);
